@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.*?>
+<Pane fx:id="parent" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity"
+      prefHeight="700.0" prefWidth="1100.0" style="-fx-background-color: #2b2a4c;" xmlns="http://javafx.com/javafx/8"
+      xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.RegisterController">
+    <children>
+        <VBox alignment="BASELINE_CENTER" layoutX="291.0" layoutY="1.0" prefHeight="581.0" prefWidth="526.0"
+              spacing="30.0">
+            <children>
+                <Label text="Sign Up" textFill="WHITE">
+                    <font>
+                        <Font name="Colonna MT" size="77.0"/>
+                    </font>
+                </Label>
+                <TextField fx:id="username" alignment="BASELINE_LEFT" prefHeight="50.0" prefWidth="500.0"
+                           promptText="Username"
+                           style="-fx-background-color: transparent; -fx-prompt-text-fill: #dedede; -fx-text-fill: white; -fx-border-color: white;">
+                    <font>
+                        <Font size="20.0"/>
+                    </font>
+                </TextField>
+                <PasswordField fx:id="pass" alignment="BASELINE_LEFT" prefHeight="50.0" prefWidth="500.0"
+                               promptText="Password"
+                               style="-fx-background-color: transparent; -fx-border-color: white; -fx-prompt-text-fill: #dedede; -fx-text-fill: white;">
+                    <font>
+                        <Font size="20.0"/>
+                    </font>
+                </PasswordField>
+                <PasswordField fx:id="repass" alignment="BASELINE_LEFT" layoutX="10.0" layoutY="235.0" prefHeight="50.0"
+                               prefWidth="500.0" promptText="Re-Enter Password"
+                               style="-fx-background-color: transparent; -fx-border-color: white; -fx-prompt-text-fill: #dedede; -fx-text-fill: white;">
+                    <font>
+                        <Font size="20.0"/>
+                    </font>
+                </PasswordField>
+                <TextField fx:id="fbID" alignment="BASELINE_LEFT" prefHeight="50.0" prefWidth="500.0"
+                           promptText="Facebook ID Number"
+                           style="-fx-background-color: transparent; -fx-prompt-text-fill: #dedede; -fx-text-fill: white; -fx-border-color: white;">
+                    <font>
+                        <Font size="20.0"/>
+                    </font>
+                </TextField>
+                <Button fx:id="signup" mnemonicParsing="false" prefHeight="40.0" prefWidth="106.0"
+                        style="-fx-background-color: transparent; -fx-border-color: white; -fx-border-radius: 20;"
+                        text="Sign up" textFill="WHITE">
+                    <font>
+                        <Font size="17.0"/>
+                    </font>
+                </Button>
+            </children>
+        </VBox>
+        <HBox alignment="TOP_CENTER" layoutX="3.0" layoutY="582.0" prefHeight="118.0" prefWidth="1094.0"
+              style="-fx-background-color: #26283d;">
+            <children>
+                <VBox alignment="BASELINE_CENTER" prefHeight="118.0" prefWidth="763.0" spacing="20.0">
+                    <children>
+                        <Label text="By clicking Sign Up, you agree to our Terms, Data Policy and Cookie Policy."
+                               textFill="WHITE">
+                            <font>
+                                <Font size="20.0"/>
+                            </font>
+                        </Label>
+                        <Button fx:id="back" mnemonicParsing="false" prefHeight="40.0" prefWidth="96.0"
+                                style="-fx-background-color: transparent; -fx-border-color: white; -fx-border-radius: 20;"
+                                text="Back" textFill="WHITE">
+                            <font>
+                                <Font size="17.0"/>
+                            </font>
+                        </Button>
+                    </children>
+                </VBox>
+            </children>
+        </HBox>
+    </children>
+</Pane>

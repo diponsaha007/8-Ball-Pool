@@ -1,0 +1,32 @@
+.list-view.scroll-bar:vertical .thumb {
+    -fx-background-color: derive(#6622CC, 90%);
+    -fx-background-insets: 2, 0, 0;
+    -fx-background-radius: 2em;
+
+}
+
+.list-cell:filled:selected:focused, .list-cell:filled:selected {
+    /* 3:, 4: */
+    -fx-background-color: linear-gradient(#2c9d04 0%, #4f770f 25%, #61aa43 75%, #37ee28 100%);
+    -fx-text-fill: white; /* 5 */
+}
+.list-view{
+    -fx-background-color: #1f2429;
+}
+.list-cell {
+    -fx-text-fill: derive(#6622CC, 90%);
+    -fx-border-color: #29292D;
+}
+
+.list-cell:odd {
+    -fx-background-color: #29292D; /* 1 */
+}
+
+.list-cell:even {
+    -fx-background-color: #29292D; /* for information */
+}
+
+.list-cell:filled:hover {
+    -fx-background-color: #00f; /* 2 */
+    -fx-text-fill: white; /* 5 */
+}

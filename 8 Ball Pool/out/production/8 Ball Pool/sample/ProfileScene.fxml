@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.LinearGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.*?>
+<Pane fx:id="parent" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity"
+      prefHeight="700.0" prefWidth="1100.0" style="-fx-background-color: #2b2a4c;" xmlns="http://javafx.com/javafx/8"
+      xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.ProfileScene">
+    <children>
+        <Separator layoutY="171.0" minHeight="7.0" prefWidth="1100.0" style="-fx-background-color: #dedede;"/>
+        <Rectangle arcHeight="5.0" fill="#26283d" height="170.0" stroke="TRANSPARENT" strokeType="INSIDE"
+                   strokeWidth="0.0" width="1100.0"/>
+        <Circle fx:id="circle" layoutX="550.0" layoutY="175.0" radius="100.0" stroke="TRANSPARENT" strokeType="INSIDE">
+            <fill>
+                <LinearGradient endX="1.0" endY="1.0" startY="1.0">
+                    <stops>
+                        <Stop color="#3305ff"/>
+                        <Stop color="#3305ff" offset="0.007246376811594203"/>
+                        <Stop color="#7a9460" offset="1.0"/>
+                    </stops>
+                </LinearGradient>
+            </fill>
+        </Circle>
+        <Label fx:id="username" alignment="CENTER" layoutX="443.0" layoutY="284.0" prefHeight="31.0" prefWidth="200.0"
+               text="Username" textFill="#ebe9e9">
+            <font>
+                <Font name="Gill Sans MT" size="27.0"/>
+            </font>
+        </Label>
+        <Label layoutX="468.0" layoutY="14.0" text="Profile" textFill="WHITE">
+            <font>
+                <Font name="Cooper Black" size="47.0"/>
+            </font>
+        </Label>
+        <VBox layoutX="14.0" layoutY="340.0" prefHeight="284.0" prefWidth="1068.0" spacing="20.0">
+            <children>
+                <Label alignment="CENTER" lineSpacing="10.0" text="Player Information:" textFill="#ebe9e9">
+                    <font>
+                        <Font name="Gill Sans MT" size="27.0"/>
+                    </font>
+                    <VBox.margin>
+                        <Insets/>
+                    </VBox.margin>
+                </Label>
+                <HBox alignment="CENTER_LEFT" spacing="30.0">
+                    <children>
+                        <Label alignment="TOP_LEFT" lineSpacing="10.0" prefWidth="193.0" text="Games Played :"
+                               textFill="#ebe9e9">
+                            <font>
+                                <Font name="Gill Sans MT" size="27.0"/>
+                            </font>
+                        </Label>
+                        <Label fx:id="played" alignment="CENTER" layoutX="10.0" layoutY="10.0" lineSpacing="10.0"
+                               text="0" textFill="#ebe9e9">
+                            <font>
+                                <Font name="Gill Sans MT" size="27.0"/>
+                            </font>
+                        </Label>
+                    </children>
+                </HBox>
+                <HBox alignment="CENTER_LEFT" layoutX="20.0" layoutY="61.0" spacing="30.0">
+                    <children>
+                        <Label alignment="TOP_LEFT" lineSpacing="10.0" prefWidth="193.0" text="Games Won :"
+                               textFill="#ebe9e9">
+                            <font>
+                                <Font name="Gill Sans MT" size="27.0"/>
+                            </font>
+                        </Label>
+                        <Label fx:id="won" alignment="CENTER" layoutX="10.0" layoutY="10.0" lineSpacing="10.0" text="0"
+                               textFill="#ebe9e9">
+                            <font>
+                                <Font name="Gill Sans MT" size="27.0"/>
+                            </font>
+                        </Label>
+                    </children>
+                </HBox>
+                <HBox alignment="CENTER_LEFT" layoutX="20.0" layoutY="112.0" spacing="30.0">
+                    <children>
+                        <Label alignment="TOP_LEFT" lineSpacing="10.0" prefHeight="31.0" prefWidth="193.0"
+                               text="Win Percentage :" textFill="#ebe9e9">
+                            <font>
+                                <Font name="Gill Sans MT" size="27.0"/>
+                            </font>
+                        </Label>
+                        <Label fx:id="percentage" alignment="CENTER" layoutX="10.0" layoutY="10.0" lineSpacing="10.0"
+                               text="0" textFill="#ebe9e9">
+                            <font>
+                                <Font name="Gill Sans MT" size="27.0"/>
+                            </font>
+                        </Label>
+                    </children>
+                </HBox>
+                <HBox alignment="CENTER_LEFT" layoutX="20.0" layoutY="163.0" spacing="30.0">
+                    <children>
+                        <Label alignment="TOP_LEFT" lineSpacing="10.0" prefHeight="31.0" prefWidth="193.0"
+                               text="Balance :" textFill="#ebe9e9">
+                            <font>
+                                <Font name="Gill Sans MT" size="27.0"/>
+                            </font>
+                        </Label>
+                        <Label fx:id="balance" alignment="CENTER" layoutX="10.0" layoutY="10.0" lineSpacing="10.0"
+                               text="0" textFill="#ebe9e9">
+                            <font>
+                                <Font name="Gill Sans MT" size="27.0"/>
+                            </font>
+                        </Label>
+                    </children>
+                </HBox>
+                <HBox alignment="CENTER_LEFT" layoutX="20.0" layoutY="163.0" spacing="30.0">
+                    <children>
+                        <Label alignment="TOP_LEFT" lineSpacing="10.0" prefWidth="193.0" text="Player Rating :"
+                               textFill="#ebe9e9">
+                            <font>
+                                <Font name="Gill Sans MT" size="27.0"/>
+                            </font>
+                        </Label>
+                        <Label fx:id="rating" alignment="CENTER" layoutX="10.0" layoutY="10.0" lineSpacing="10.0"
+                               text="Noob" textFill="#ebe9e9">
+                            <font>
+                                <Font name="Gill Sans MT" size="27.0"/>
+                            </font>
+                        </Label>
+                    </children>
+                </HBox>
+            </children>
+            <padding>
+                <Insets left="10.0"/>
+            </padding>
+        </VBox>
+        <Button fx:id="back" layoutX="502.0" layoutY="646.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="96.0"
+                style="-fx-background-color: transparent; -fx-border-color: white; -fx-border-radius: 20;" text="Back"
+                textFill="WHITE">
+            <font>
+                <Font size="17.0"/>
+            </font>
+        </Button>
+    </children>
+</Pane>

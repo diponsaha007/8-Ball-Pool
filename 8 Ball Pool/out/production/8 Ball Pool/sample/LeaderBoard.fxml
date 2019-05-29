@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<Pane fx:id="parent" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity"
+      prefHeight="700.0" prefWidth="1100.0" style="-fx-background-color: #2b2a4c;" xmlns="http://javafx.com/javafx/8"
+      xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.LeaderBoard">
+    <children>
+        <Label layoutX="426.0" layoutY="14.0" text="Leader Board" textFill="#f8f1f1">
+            <font>
+                <Font name="High Tower Text" size="45.0"/>
+            </font>
+        </Label>
+        <VBox layoutY="68.0" prefHeight="569.0" prefWidth="1100.0">
+            <children>
+                <TableView fx:id="table" prefHeight="572.0" prefWidth="1100.0" stylesheets="@../tableview.css">
+                    <columns>
+                        <TableColumn fx:id="name" maxWidth="200.0" minWidth="212.0" prefWidth="75.0" text="Name"/>
+                        <TableColumn fx:id="gamesplayed" minWidth="200.0" prefWidth="75.0" sortType="DESCENDING"
+                                     text="Games Played"/>
+                        <TableColumn fx:id="gameswon" minWidth="200.0" prefWidth="75.0" sortType="DESCENDING"
+                                     text="Games Won"/>
+                        <TableColumn fx:id="winpercentage" minWidth="200.0" prefWidth="75.0" sortType="DESCENDING"
+                                     text="Win Percentage"/>
+                        <TableColumn fx:id="balance" minWidth="200.0" prefWidth="75.0" sortType="DESCENDING"
+                                     text="Balance"/>
+                    </columns>
+                </TableView>
+            </children>
+            <padding>
+                <Insets left="44.0" right="44.0"/>
+            </padding>
+        </VBox>
+        <Button fx:id="back" layoutX="502.0" layoutY="646.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="96.0"
+                style="-fx-background-color: transparent; -fx-border-color: white; -fx-border-radius: 20;" text="Back"
+                textFill="WHITE">
+            <font>
+                <Font size="17.0"/>
+            </font>
+        </Button>
+    </children>
+</Pane>

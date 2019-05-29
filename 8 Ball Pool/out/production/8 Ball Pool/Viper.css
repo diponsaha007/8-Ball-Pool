@@ -1,0 +1,101 @@
+
+.label-player{
+    -fx-text-fill: #ff1f3d;
+    -fx-font-size: 22px;
+    -fx-font-family: "Segoe Print";
+    -fx-font-weight: bold;
+}
+
+.label-text {
+    -fx-font-size: 48px;
+    -fx-font-family: "Arial Black";
+    -fx-fill: #e4e4e4;
+    -fx-effect: innershadow( three-pass-box , rgba(164, 241, 248, 0.7), 6, 0.0 , 0 , 2 );
+}
+.label-over{
+    -fx-text-fill: #a0ff16;
+    -fx-font-size: 48px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Arial Black";
+}
+.label-player2{
+    -fx-text-fill: #fbfffd;
+    -fx-font-size: 23px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Segoe Print";
+}
+.button-orange {
+    -fx-background-color:
+            linear-gradient(#ffd65b, #e68400),
+            linear-gradient(#ffef84, #f2ba44),
+            linear-gradient(#ffea6a, #efaa22),
+            linear-gradient(#ffe657 0%, #f8c202 50%, #eea10b 100%),
+            linear-gradient(from 0% 0% to 15% 50%, rgba(255,255,255,0.9), rgba(255,255,255,0));
+    -fx-background-radius: 30;
+    -fx-background-insets: 0,1,2,3,0;
+    -fx-text-fill: #654b00;
+    -fx-font-weight: bold;
+    -fx-font-size: 18px;
+    -fx-padding: 10 20 10 20;
+}
+.button-orange2 {
+    -fx-background-color:
+            linear-gradient(#ffd65b, #e68400),
+            linear-gradient(#ffef84, #f2ba44),
+            linear-gradient(#ffea6a, #efaa22),
+            linear-gradient(#ffe657 0%, #f8c202 50%, #eea10b 100%),
+            linear-gradient(from 0% 0% to 15% 50%, rgba(255,255,255,0.9), rgba(255,255,255,0));
+    -fx-background-radius: 50;
+    -fx-background-insets: 0,1,2,3,0;
+    -fx-text-fill: #65390E;
+    -fx-font-weight: bold;
+    -fx-font-size: 22px;
+    -fx-padding: 10 20 10 20;
+}
+
+.button-back {
+    -fx-padding: 8 15 15 15;
+    -fx-background-insets: 0,0 0 5 0, 0 0 6 0, 0 0 7 0;
+    -fx-background-radius: 8;
+    -fx-background-color:
+            linear-gradient(from 0% 93% to 0% 100%, #a34313 0%, #903b12 100%),
+            #9d4024,
+            #d86e3a,
+            radial-gradient(center 50% 50%, radius 100%, #d86e3a, #c54e2c);
+    -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.75) , 4,0,0,1 );
+    -fx-font-weight: bold;
+    -fx-font-size: 18px;
+}
+.button-leave {
+    -fx-padding: 8 15 15 15;
+    -fx-background-insets: 0,0 0 5 0, 0 0 6 0, 0 0 7 0;
+    -fx-background-color:
+            linear-gradient(from 0% 93% to 0% 100%, #a34313 0%, #903b12 100%),
+            #2f9d05,
+            #d5e404,
+            radial-gradient(center 50% 50%, radius 100%, #d86e3a, #c54e2c);
+    -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.75) , 4,0,0,1 );
+    -fx-font-weight: bold;
+    -fx-font-size: 18px;
+}
+.button-game{
+    -fx-background-color:
+            #090a0c,
+            linear-gradient(#38424b 0%, #1f2429 20%, #191d22 100%),
+            linear-gradient(#20262b, #191d22),
+            radial-gradient(center 50% 0%, radius 100%, rgba(114,131,148,0.9), rgba(255,255,255,0));
+    -fx-background-radius: 5,4,3,5;
+    -fx-background-insets: 0,1,2,0;
+    -fx-text-fill: white;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+    -fx-font-family: "Arial";
+    -fx-text-fill: linear-gradient(white, #d0d0d0);
+    -fx-font-size: 12px;
+    -fx-padding: 10 20 10 20;
+}
+.button-login {
+     -fx-background-color: linear-gradient(#0e34ff, #5d27be);
+     -fx-background-radius: 30;
+     -fx-background-insets: 0;
+     -fx-text-fill: white;
+ }

@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="8 Ball Pool">
+    <output-path>$PROJECT_DIR$/out/artifacts/8_Ball_Pool</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="sample.Main" />
+        <option name="description" value="" />
+        <option name="height" value="700" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="8 Ball Pool" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+        <option name="width" value="1100" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="8_Ball_Pool.jar">
+        <element id="module-output" name="8 Ball Pool" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/sample/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

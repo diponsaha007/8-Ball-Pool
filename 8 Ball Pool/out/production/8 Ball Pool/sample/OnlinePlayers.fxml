@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.*?>
+<Pane fx:id="parent" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity"
+      prefHeight="700.0" prefWidth="1100.0" style="-fx-background-color: #2b2a4c;" xmlns="http://javafx.com/javafx/8"
+      xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.OnlinePlayers">
+    <children>
+        <ListView fx:id="active" layoutX="737.0" layoutY="81.0" prefHeight="544.0" prefWidth="306.0"
+                  stylesheets="@../list-view.css"/>
+        <Label layoutX="813.0" layoutY="36.0" text="Active Players" textFill="WHITE">
+            <font>
+                <Font name="Book Antiqua" size="24.0"/>
+            </font>
+        </Label>
+        <Label alignment="TOP_LEFT" layoutX="14.0" layoutY="223.0" prefHeight="47.0" prefWidth="691.0"
+               text="Select any active player and the amount of bet " textFill="WHITE">
+            <font>
+                <Font name="Book Antiqua" size="33.0"/>
+            </font>
+        </Label>
+        <Button fx:id="back" layoutX="502.0" layoutY="646.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="96.0"
+                style="-fx-background-color: transparent; -fx-border-color: white; -fx-border-radius: 20;" text="Back"
+                textFill="WHITE">
+            <font>
+                <Font size="17.0"/>
+            </font>
+        </Button>
+        <TextField fx:id="money" alignment="BASELINE_LEFT" layoutX="110.0" layoutY="300.0" prefHeight="50.0"
+                   prefWidth="500.0" promptText="Enter Amount"
+                   style="-fx-background-color: transparent; -fx-prompt-text-fill: #dedede; -fx-text-fill: white; -fx-border-color: white;">
+            <font>
+                <Font size="20.0"/>
+            </font>
+        </TextField>
+        <Button fx:id="play" layoutX="312.0" layoutY="380.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="96.0"
+                style="-fx-background-color: transparent; -fx-border-color: white; -fx-border-radius: 20;" text="Play"
+                textFill="WHITE">
+            <font>
+                <Font size="17.0"/>
+            </font>
+        </Button>
+    </children>
+</Pane>
