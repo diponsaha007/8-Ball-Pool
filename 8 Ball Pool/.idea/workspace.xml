@@ -7,14 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Database/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/.idea/workspace.xml" afterDir="false" />
     </list>
-    <ignored path="JavaFxApplication.iws" />
-    <ignored path=".idea/workspace.xml" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,136 +70,6 @@
     </breakpoint_any>
     <ui_properties converted="true" />
     <breakpoint_rules converted="true" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="JavaFxApplication" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sample/SingleBall.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2200">
-              <caret line="131" column="29" selection-start-line="131" selection-start-column="26" selection-end-line="131" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#setVelocity#0;class#SingleBall#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sample/GameScene.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="29" column="21" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sample/MenuScene.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="19" column="69" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="69" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/sample/ClientThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-280">
-              <caret line="92" column="47" selection-start-line="92" selection-start-column="47" selection-end-line="92" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sample/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sample/OnlinePlayers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="51" column="11" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sample/OnlinePlayers.fxml">
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sample/Vector.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-              <folding>
-                <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#254#255#0" expanded="true" />
-                <element signature="e#280#281#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#332#333#0" expanded="true" />
-                <element signature="e#366#367#0" expanded="true" />
-                <element signature="e#392#393#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sample/Player.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1080">
-              <caret line="78" column="29" selection-start-line="78" selection-start-column="29" selection-end-line="78" selection-end-column="29" />
-              <folding>
-                <element signature="e#1575#1576#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sample/ProfileScene.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1920">
-              <caret line="109" column="9" selection-start-line="109" selection-start-column="9" selection-end-line="109" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -274,62 +140,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/sample/Game.java" />
-        <option value="$PROJECT_DIR$/src/sample/Sound.java" />
-        <option value="$PROJECT_DIR$/src/sample/gameCover.fxml" />
-        <option value="$PROJECT_DIR$/src/sample/ControllerGameCover.java" />
-        <option value="$PROJECT_DIR$/src/sample/AllBalls.java" />
-        <option value="$PROJECT_DIR$/src/sample/CoverScene.fxml" />
-        <option value="$PROJECT_DIR$/src/Server/player1Thread.java" />
-        <option value="$PROJECT_DIR$/src/Server/Player1Thread.java" />
-        <option value="$PROJECT_DIR$/src/Server/WorkerThread.java" />
-        <option value="$PROJECT_DIR$/src/sample/SoundEffects.java" />
-        <option value="$PROJECT_DIR$/src/sample/Vector.java" />
-        <option value="$PROJECT_DIR$/src/sample/CreditsScene.fxml" />
-        <option value="$PROJECT_DIR$/src/sample/TextScene.java" />
-        <option value="$PROJECT_DIR$/src/sample/CoverScene.java" />
-        <option value="$PROJECT_DIR$/src/Server/PlayerThread.java" />
-        <option value="$PROJECT_DIR$/src/Server/Server.java" />
-        <option value="$PROJECT_DIR$/src/sample/LoginScene.java" />
-        <option value="$PROJECT_DIR$/src/Viper.css" />
-        <option value="$PROJECT_DIR$/src/sample/RegisterController.java" />
-        <option value="$PROJECT_DIR$/src/LeaderBoard.fxml" />
-        <option value="$PROJECT_DIR$/src/sample/LeaderBoard.java" />
-        <option value="$PROJECT_DIR$/src/sample/loginController.java" />
-        <option value="$PROJECT_DIR$/src/sample/CreditsScene.java" />
-        <option value="$PROJECT_DIR$/src/sample/onlinePlayers.fxml" />
-        <option value="$PROJECT_DIR$/src/tableview.css" />
-        <option value="$PROJECT_DIR$/src/list-view.css" />
-        <option value="$PROJECT_DIR$/src/sample/SingleBall.java" />
-        <option value="$PROJECT_DIR$/src/sample/Controller.java" />
-        <option value="$PROJECT_DIR$/src/sample/ClientThread.java" />
-        <option value="$PROJECT_DIR$/src/sample/GameScene.java" />
-        <option value="$PROJECT_DIR$/src/sample/LeaderBoard.fxml" />
-        <option value="$PROJECT_DIR$/src/sample/LoginScene.fxml" />
-        <option value="$PROJECT_DIR$/src/sample/Main.java" />
-        <option value="$PROJECT_DIR$/src/sample/OnlinePlayers.java" />
-        <option value="$PROJECT_DIR$/src/sample/OnlinePlayers.fxml" />
-        <option value="$PROJECT_DIR$/src/sample/Player.java" />
-        <option value="$PROJECT_DIR$/src/sample/ProfileScene.java" />
-        <option value="$PROJECT_DIR$/src/sample/ProfileScene.fxml" />
-        <option value="$PROJECT_DIR$/src/sample/RegisterScene.fxml" />
-        <option value="$PROJECT_DIR$/src/sample/RuleScene.fxml" />
-        <option value="$PROJECT_DIR$/src/sample/RulesScene.java" />
-        <option value="$PROJECT_DIR$/src/sample/sample.fxml" />
-        <option value="$PROJECT_DIR$/src/sample/User.java" />
-        <option value="$PROJECT_DIR$/src/sample/MenuScene.java" />
-      </list>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="95" />
@@ -337,40 +147,14 @@
     <option name="width" value="1750" />
     <option name="height" value="970" />
   </component>
+  <component name="ProjectId" id="1cUZ54Y7TsD8v1Aof029iNUAMkk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="8 Ball Pool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="8 Ball Pool" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="8 Ball Pool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="8 Ball Pool" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="8 Ball Pool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="8 Ball Pool" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sample" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
@@ -409,19 +193,13 @@
       <visibility group="npm scripts" flag="false" />
     </myKeys>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -433,12 +211,6 @@
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
-    </configuration>
-    <configuration default="true" type="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" singleton="false">
       <option name="MAIN_CLASS_NAME" value="sample.Main" />
@@ -647,95 +419,38 @@
       <workItem from="1572039749486" duration="332000" />
       <workItem from="1576418349848" duration="702000" />
       <workItem from="1580465692806" duration="629000" />
+      <workItem from="1590584948528" duration="704000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="420922000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.23959732" />
-      <window_info id="Structure" order="1" weight="0.24966443" />
-      <window_info id="Favorites" order="2" weight="0.3295302" />
-      <window_info id="Designer" order="3" />
-      <window_info id="Image Layers" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="UI Designer" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32719547" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4220963" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.43767706" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Application Servers" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Problems" order="9" />
-      <window_info anchor="bottom" id="Changes" order="10" />
-      <window_info anchor="bottom" id="Profiler" order="11" />
-      <window_info anchor="bottom" id="Event Log" order="12" weight="0.3286119" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32719547" />
-      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="16" weight="0.3286119" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Database" order="1" weight="0.26040268" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="JetGradle" order="4" />
-      <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="right" id="Maven" order="7" weight="0.3295302" />
-      <window_info anchor="right" id="Capture Analysis" order="8" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info anchor="right" id="Theme Preview" order="10" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.2" />
-      <window_info id="Structure" order="1" weight="0.24966443" />
-      <window_info id="Favorites" order="2" weight="0.3295302" />
-      <window_info id="Designer" order="3" />
-      <window_info id="Image Layers" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="UI Designer" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.203966" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.43767706" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Application Servers" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Problems" order="9" />
-      <window_info anchor="bottom" id="Changes" order="10" />
-      <window_info anchor="bottom" id="Profiler" order="11" />
-      <window_info anchor="bottom" id="Event Log" order="12" weight="0.3286119" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32719547" />
-      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="16" weight="0.3286119" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Database" order="1" weight="0.26040268" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="JetGradle" order="4" />
-      <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="right" id="Maven" order="7" weight="0.3295302" />
-      <window_info anchor="right" id="Capture Analysis" order="8" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info anchor="right" id="Theme Preview" order="10" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590585060166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1590585060166" />
+    <state width="1537" height="286" key="GridCell.Tab.0.bottom" timestamp="1590585646097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="286" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590585646097" />
+    <state width="1537" height="286" key="GridCell.Tab.0.center" timestamp="1590585646097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="286" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590585646097" />
+    <state width="1537" height="286" key="GridCell.Tab.0.left" timestamp="1590585646097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="286" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590585646097" />
+    <state width="1537" height="286" key="GridCell.Tab.0.right" timestamp="1590585646097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="286" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590585646097" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -743,37 +458,31 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sample/SingleBall.java</url>
           <line>197</line>
-          <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sample/SingleBall.java</url>
           <line>200</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sample/GameScene.java</url>
           <line>851</line>
-          <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sample/Controller.java</url>
           <line>142</line>
-          <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sample/GameScene.java</url>
           <line>346</line>
-          <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../LEVEL 1 TERM 2/CSE CODES/java 2/src/com/jetbrains/WorkerThread.java</url>
           <line>134</line>
-          <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
@@ -814,318 +523,6 @@
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../LEVEL 1 TERM 2/CSE 108/Socket Programming Contents/Codes/Complex/SimpleClient.java" />
-    <entry file="jar://C:/Program Files/Java/javafx-sdk-11.0.1/lib/javafx.graphics.jar!/com/sun/javafx/tk/Toolkit.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="155" selection-start-line="155" selection-end-line="155" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/javafx-sdk-11.0.1/lib/javafx.graphics.jar!/com/sun/javafx/tk/quantum/QuantumToolkit.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="315" selection-start-line="315" selection-end-line="315" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/javafx-sdk-11.0.1/lib/javafx.graphics.jar!/javafx/scene/Parent.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="189" selection-start-line="189" selection-end-line="189" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/CreditsScene.fxml" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/61b921ff-fcb5-4ac3-9ead-9775832d2675/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Server/PlayerThread.java" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a5eed5b2-d035-4ad3-b66c-80902f1b274e/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="314" selection-start-line="314" selection-end-line="314" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-736">
-          <caret line="520" selection-start-line="520" selection-end-line="520" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Server/Server.java" />
-    <entry file="file://$PROJECT_DIR$/.idea/libraries/mysql_connector.xml" />
-    <entry file="file://$PROJECT_DIR$/src/sample/LoginScene.java" />
-    <entry file="file://$PROJECT_DIR$/src/sample/CoverScene.java" />
-    <entry file="file://$PROJECT_DIR$/src/sample/CoverScene.fxml" />
-    <entry file="file://$PROJECT_DIR$/src/LeaderBoard.fxml" />
-    <entry file="file://$PROJECT_DIR$/../LEVEL 1 TERM 2/CSE CODES/JAVA FX Assignment/src/sample/Word.java" />
-    <entry file="file://$PROJECT_DIR$/../LEVEL 1 TERM 2/CSE CODES/JAVA FX Assignment/src/sample/Controller.java" />
-    <entry file="file://$USER_HOME$/Downloads/Compressed/JFoenix-master/JFoenix-master/jfoenix/src/main/resources/css/controls/jfx-button.css" />
-    <entry file="file://$USER_HOME$/Downloads/Compressed/JFoenix-master/JFoenix-master/README.md" />
-    <entry file="file://$PROJECT_DIR$/../LEVEL 1 TERM 2/CSE CODES/java 2/src/com/jetbrains/Users.java" />
-    <entry file="file://$PROJECT_DIR$/../LEVEL 1 TERM 2/CSE CODES/java 2/src/com/jetbrains/WorkerThread.java" />
-    <entry file="file://$PROJECT_DIR$/../LEVEL 1 TERM 2/CSE CODES/java 2/src/com/jetbrains/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/sample/TextScene.java" />
-    <entry file="file://$PROJECT_DIR$/src/tableview.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-242">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Viper.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="96" column="60" selection-start-line="96" selection-start-column="27" selection-end-line="96" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/list-view.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/LoginScene.fxml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="9060">
-          <caret line="453" selection-start-line="453" selection-end-line="453" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/RegisterScene.fxml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="1600">
-          <caret line="80" selection-start-line="80" selection-end-line="80" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/RuleScene.fxml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="71" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/ProfileScene.fxml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2529">
-          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/CreditsScene.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-455">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/LeaderBoard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-355">
-          <caret line="35" column="37" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/LeaderBoard.fxml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/loginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1829">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/RegisterController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/RulesScene.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/SoundEffects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/OnlinePlayers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="51" column="11" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/OnlinePlayers.fxml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="78" column="29" selection-start-line="78" selection-start-column="29" selection-end-line="78" selection-end-column="29" />
-          <folding>
-            <element signature="e#1575#1576#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/ProfileScene.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1920">
-          <caret line="109" column="9" selection-start-line="109" selection-start-column="9" selection-end-line="109" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-          <folding>
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/SingleBall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2200">
-          <caret line="131" column="29" selection-start-line="131" selection-start-column="26" selection-end-line="131" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#setVelocity#0;class#SingleBall#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/GameScene.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="29" column="21" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/MenuScene.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="19" column="69" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/ClientThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-280">
-          <caret line="92" column="47" selection-start-line="92" selection-start-column="47" selection-end-line="92" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>

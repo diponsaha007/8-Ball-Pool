@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5abd9062-657a-4835-b109-8229379bb21e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../8 Ball Pool/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../8 Ball Pool/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 Ball Pool/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../8 Ball Pool/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../8 Ball Pool/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../8 Ball Pool/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,47 +25,6 @@
     <expand />
     <select />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jetbrains/Server.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jetbrains/PlayerThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4660">
-              <caret line="319" selection-start-line="319" selection-end-line="319" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#sendLeaderBoard#0;class#PlayerThread#0" />
-                <element signature="method#showProfile#0;class#PlayerThread#0" />
-                <element signature="method#setlogin#0;class#PlayerThread#0" />
-                <element signature="method#setSignup#0;class#PlayerThread#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jetbrains/PlayerData.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -78,54 +35,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/com/jetbrains/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/jetbrains/PlayerData.java" />
-        <option value="$PROJECT_DIR$/src/com/jetbrains/PlayerThread.java" />
-        <option value="$PROJECT_DIR$/src/com/jetbrains/Server.java" />
-        <option value="$PROJECT_DIR$/../Test for C++/Main.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="95" />
-    <option name="y" value="50" />
-    <option name="width" value="1750" />
-    <option name="height" value="970" />
-  </component>
+  <component name="ProjectId" id="1cUYXi2yOlGSYxbSSdLxXjgwrjS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Database" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Database" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Database" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Database" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Database" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Database" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jetbrains" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -135,18 +49,6 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.Server">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -240,48 +142,30 @@
       <workItem from="1572039616829" duration="125000" />
       <workItem from="1576418195331" duration="660000" />
       <workItem from="1580465602430" duration="688000" />
+      <workItem from="1590584685616" duration="977000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85610000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1738255" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2266289" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" weight="0.3295302" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1537" height="141" key="GridCell.Tab.0.bottom" timestamp="1590585660908">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="141" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590585660908" />
+    <state width="1537" height="141" key="GridCell.Tab.0.center" timestamp="1590585660908">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="141" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590585660908" />
+    <state width="1537" height="141" key="GridCell.Tab.0.left" timestamp="1590585660908">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="141" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590585660908" />
+    <state width="1537" height="141" key="GridCell.Tab.0.right" timestamp="1590585660908">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="141" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590585660908" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -289,70 +173,15 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jetbrains/PlayerThread.java</url>
           <line>157</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jetbrains/PlayerThread.java</url>
           <line>169</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/mysql-connector.jar!/com/mysql/jdbc/SQLError.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="256" selection-start-line="256" selection-end-line="256" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/mysql-connector.jar!/com/mysql/jdbc/MysqlIO.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="1047" selection-start-line="1047" selection-end-line="1047" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LEVEL 1 TERM 2/CSE CODES/JAVA FX Assignment/src/sample/Controller.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/jetbrains/Main.java" />
-    <entry file="file://$PROJECT_DIR$/../Test for C++/Main.java" />
-    <entry file="file://$PROJECT_DIR$/../8 Ball Pool/src/sample/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jetbrains/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jetbrains/PlayerThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4660">
-          <caret line="319" selection-start-line="319" selection-end-line="319" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#sendLeaderBoard#0;class#PlayerThread#0" />
-            <element signature="method#showProfile#0;class#PlayerThread#0" />
-            <element signature="method#setlogin#0;class#PlayerThread#0" />
-            <element signature="method#setSignup#0;class#PlayerThread#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jetbrains/PlayerData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
